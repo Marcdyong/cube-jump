@@ -60,6 +60,10 @@ function draw() {
     circle(353,120,5)
     circle(350,133,5)
     circle(360,130,5)
+    textSize(16)
+    fill("black")
+    text("space=Duck",50,50)
+    text("right_mouse_button=jump", 50, 80)
     return;
   }
   player.move();
