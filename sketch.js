@@ -43,7 +43,7 @@ function draw() {
     fill("black");
     text("Press 'b' to start", 250, 75);
     textSize(15)
-    text("Made by 'Shadow'", 650, 285)
+    text("Made by 'MD games'", 650, 285)
     fill("yellow")
     rect(320,140,75,75)
     
